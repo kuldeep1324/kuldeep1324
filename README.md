@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:kuldeep13rajak@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
