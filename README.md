@@ -5,8 +5,8 @@
 
 ## 👨‍💻 About Me
 
--  I am a **Full Stack MERN Projects**
--  Working on **Advanced Backend & System Design**
+-  I am working on **Full Stack MERN Projects**
+-  Good Command on **Advanced Backend & System Design**
 -  I’m looking to collaborate on **Open Source & Real-World Projects**
 -  Ask me about **React, Node.js, MongoDB, JavaScript**
 
