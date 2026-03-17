@@ -5,11 +5,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack MERN Projects**
-- 🌱 I’m currently learning **Advanced Backend & System Design**
-- 👯 I’m looking to collaborate on **Open Source & Real-World Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- ⚡ Fun fact: I turn ☕ into scalable web apps
+-  I am a **Full Stack MERN Projects**
+-  Working on **Advanced Backend & System Design**
+-  I’m looking to collaborate on **Open Source & Real-World Projects**
+-  Ask me about **React, Node.js, MongoDB, JavaScript**
 
 ---
 
@@ -67,7 +66,9 @@
 - 🌐 Full Stack MERN Applications
 - 📊 Dashboard & Management Systems
 - 🤖 AI + Web Integration Projects
-- 🛰️ Smart Monitoring Systems
+-  Smart Plant Care System
+-  Smart Door Lock System
+-  Time Scheduling System
 
 ---
 
