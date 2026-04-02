@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me
 
--  I am working on **Full Stack MERN Projects**
--  Good Command on **Advanced Backend & System Design**
--  I’m looking to collaborate on **Open Source & Real-World Projects**
--  Ask me about **React, Node.js, MongoDB, JavaScript**
-
+-  Currently working on full-stack MERN projects, focusing on building scalable and real-world applications
+-  Strong interest in backend development and system design, with continuous learning and improvement
+-  Comfortable with React, Node.js, MongoDB, and JavaScript, and exploring Next.js and TypeScript
+-  Pay attention to UI/UX to ensure applications are both functional and user-friendly
+-  Open to collaborating on open-source and real-world projects while learning and solving practical problems through code
 ---
 
 ## 🌐 Connect with Me
