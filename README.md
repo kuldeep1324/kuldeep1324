@@ -66,10 +66,14 @@
 - 🌐 Full Stack MERN Applications
 - 📊 Dashboard & Management Systems
 - 🤖 AI + Web Integration Projects
+  # HARDWARE PROJECTS:
 -  Smart Plant Care System
 -  Smart Door Lock System
 -  Time Scheduling System
-
+-  Drone Monitoring System
+  # SOFTWARE PROJECTS:
+-  RentHub
+-  YantraNetra
 ---
 
 ## 💡 Quote I Live By
