@@ -18,7 +18,7 @@
 <a href="https://github.com/kuldeep1324" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<a href="https://www.linkedin.com/in/kuldeep-rajak-6a508933a/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:kuldeep13rajak@gmail.com">
