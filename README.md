@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Kuldeep Rajak</h1>
 <h3 align="center">🚀 MERN Stack Developer | Frontend • Backend • Database</h3>
 
 ---
@@ -73,6 +73,7 @@
 -  Drone Monitoring System
   # SOFTWARE PROJECTS:
 -  RentHub
+-  AI-Face-Recognition
 -  YantraNetra
 ---
 
